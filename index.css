@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    color: white;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.skyscraper {
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.info {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 600px;
+}
+
+#burj-khalifa {
+    /* Image from https://www.burjkhalifa.ae/en/ */
+    background-image: url('assets/burj-khalifa.jpg');
+}
+
+#shanghai-tower {
+    /* Image from https://www.gensler.com/projects/shanghai-tower */
+    background-image: url('https://www.gensler.com/uploads/image/24974/filename/shanghai-tower-banner-2000x1125-1.jpg');
+}
+
+#abraj-al-bait {
+    /* Image from https://www.fairmont.com/makkah/ */
+    background-image: url('assets/abraj-al-bait.jpg');
+}
+
+#ping-an-ifc {
+    /* Image from https://www.kpf.com/projects/ping-an-finance-centre */
+    background-image: url('assets/pingAn.jpg');
+}
+
+#lotte-world-tower {
+    /* Image from https://www.lwt.co.kr/en/main/main.do */
+    background-image: url('assets/lotte.webp');
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
