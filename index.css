@@ -30,27 +30,22 @@ header {
 }
 
 #burj-khalifa {
-    /* Image from https://www.burjkhalifa.ae/en/ */
     background-image: url('assets/burj-khalifa.jpg');
 }
 
 #shanghai-tower {
-    /* Image from https://www.gensler.com/projects/shanghai-tower */
     background-image: url('https://www.gensler.com/uploads/image/24974/filename/shanghai-tower-banner-2000x1125-1.jpg');
 }
 
 #abraj-al-bait {
-    /* Image from https://www.fairmont.com/makkah/ */
     background-image: url('assets/abraj-al-bait.jpg');
 }
 
 #ping-an-ifc {
-    /* Image from https://www.kpf.com/projects/ping-an-finance-centre */
     background-image: url('assets/pingAn.jpg');
 }
 
 #lotte-world-tower {
-    /* Image from https://www.lwt.co.kr/en/main/main.do */
     background-image: url('assets/lotte.webp');
 }
 
